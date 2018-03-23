@@ -1,0 +1,42 @@
+﻿.img-right
+{
+	max-width: 200px;
+	max-height: 200px;
+	text-align: right;
+	float:left;
+	margin-left: 15px;
+	margin-right: 15px;
+	border-radius: 20%;
+	border: solid 2px red;
+}
+.button_lire
+{
+float: right;
+margin-top: 50px;	
+	
+}
+.panel-default > .panel-heading
+{
+	background-image: url(https://images.freecreatives.com/wp-content/uploads/2015/10/Old-Newspaper-Textures.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	background-color: #000;
+	color: white;
+}
+.author
+{
+float: right;
+color: red;
+font-size: 15px;
+text-decoration: undeline;	
+	
+	
+}
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+.contenue
+{
+text-align: center;
+font-size: 10px;
+margin-top: 50px;	
+font-family: 'Arvo', serif;
+}
